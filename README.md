@@ -47,7 +47,7 @@ ROOF application serves customers to create orders for pickup from the restauran
 
 List of features ready and TODOs for future development
 * Customer focused API that accepts customer orders and utilizes the Google Maps directions api to limit orders to within 25 miles of location
-* Resteraunt focused API that allows the order status to be updated and notifies the customer of each change either via email or text utilising the Twillio messagin API
+* Resteraunt focused API that allows the order status to be updated and notifies the customer of each change either via email or text utilising the Twillio messaging API
 * Hosted in a kubernetes pod
 
 To-do list:
